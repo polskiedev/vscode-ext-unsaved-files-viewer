@@ -3,7 +3,7 @@
   "displayName": "Unsaved Files Viewer",
   "description": "Shows all currently unsaved files in a sidebar view.",
   "version": "0.0.1",
-  "publisher": "polskiedev",
+  "publisher": "your-name",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -55,15 +55,6 @@
     }
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "vscode": "^1.1.37"
-  },
-  "devDependencies": {
-    "@types/vscode": "^1.120.0"
+    "package-extension": "node scripts/package.js"
   }
 }
