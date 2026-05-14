@@ -3,7 +3,7 @@
   "displayName": "Unsaved Files Viewer",
   "description": "Shows all currently unsaved files in a sidebar view.",
   "version": "0.0.1",
-  "publisher": "your-name",
+  "publisher": "polskiedev",
   "engines": {
     "vscode": "^1.85.0"
   },
